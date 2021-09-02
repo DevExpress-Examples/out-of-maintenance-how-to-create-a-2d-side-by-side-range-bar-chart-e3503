@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideRangeBar2DChart", "SideBySideRangeBar2DChart\SideBySideRangeBar2DChart.csproj", "{E5DD56E4-6E64-41BF-9721-18360D5D568A}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideRangeBar2DChart", "SideBySideRangeBar2DChart\SideBySideRangeBar2DChart.Net5.csproj", "{E5DD56E4-6E64-41BF-9721-18360D5D568A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
